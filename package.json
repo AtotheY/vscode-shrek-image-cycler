@@ -1,7 +1,8 @@
 {
-  "name": "shrek",
-  "displayName": "shrek",
-  "description": "",
+  "name": "cycler",
+  "displayName": "image-cycler",
+  "description": "Mostly made for popping random Shrek images up while you code. Customizable for any images you'd like",
+  "author": "https://github.com/atothey",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.91.0"
